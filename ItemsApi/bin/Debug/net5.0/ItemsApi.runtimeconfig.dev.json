@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/rubyosborne/.dotnet/store/|arch|/|tfm|",
+      "/Users/rubyosborne/.nuget/packages"
+    ]
+  }
+}
