@@ -1,8 +1,9 @@
 ﻿<Properties StartupConfiguration="{EF739261-59BD-4826-8929-9937DF4D6A49}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
   <MonoDevelop.Ide.Workbench ActiveDocument="ItemsApi/Controllers/HomeController.cs">
     <Files>
-      <File FileName="ItemsApi/Controllers/HomeController.cs" Line="30" Column="1" />
-      <File FileName="ItemsApi/Models/items.cs" Line="8" Column="22" />
+      <File FileName="ItemsApi/Controllers/HomeController.cs" Line="8" Column="1" />
+      <File FileName="ItemsApi/Models/items.cs" />
+      <File FileName="ItemsApi/appsettings.json" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,7 +14,6 @@
                 <Node name="HomeController.cs" selected="True" />
               </Node>
               <Node name="Models" expanded="True" />
-              <Node name="Properties" expanded="True" />
             </Node>
           </Node>
         </State>

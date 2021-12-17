@@ -41,3 +41,4 @@
 /Users/rubyosborne/Desktop/ItemsApi/ItemsApi/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/rubyosborne/Desktop/ItemsApi/ItemsApi/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
 /Users/rubyosborne/Desktop/ItemsApi/ItemsApi/obj/Debug/net5.0/ItemsApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/rubyosborne/Desktop/ItemsApi/ItemsApi/obj/Debug/net5.0/ItemsApi.sourcelink.json
